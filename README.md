@@ -7,6 +7,10 @@ generator delivering 1V (r.m.s). Make a plot of the power delivered to the circu
 function of the frequency and verify that the half-width the resonance peak is 𝑅/(2𝜋𝐿).
 </p>
 
+# Clone the Repo
+```
+git clone https://github.com/ruslasp2020101/PHY2102.git
+```
 
 # Install Requirements
 ```

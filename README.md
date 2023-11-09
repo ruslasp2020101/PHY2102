@@ -24,4 +24,4 @@ python app.py
 
 # Run on Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruslasp2020101/PHY2102/blob/main/4772.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ruslasp2020101/PHY2102/blob/main/ASP-19-20-101-4772.ipynb)
